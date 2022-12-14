@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'FOSSology',
   tagline: 'Open source license compliance software system',
-  url: 'http://localhost:3000/',
-  baseUrl: '/',
+  url: 'https://fossology.github.io',
+  baseUrl: '/user-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/fossology.png',
