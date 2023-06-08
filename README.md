@@ -1,5 +1,11 @@
 # Website
 
+## Structure discussions
+With discussions from project members, we cameup with this rough draft for the documentation.
+Please feel free to comment on the doc directly.
+
+Link to the doc: https://docs.google.com/document/d/1t8kjri0mdgdo-ja5vSKmV18ClhMurwFqY8Ek-S-2IZQ/edit?usp=sharing
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
